@@ -13,7 +13,7 @@ Deployed on: https://coinvault-deployment.onrender.com (May take sometime to sta
 
 
 ```http
-  GET /api/v1/stats?coin=bitcoin
+  GET /stats?coin=bitcoin
 
 ```
 
@@ -31,7 +31,7 @@ Deployed on: https://coinvault-deployment.onrender.com (May take sometime to sta
 #### Deviation
 
 ```http
-  GET /api/v1/deviation?coin=bitcoin
+  GET /deviation?coin=bitcoin
 
 ```
 | Description                |
