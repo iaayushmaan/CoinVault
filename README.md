@@ -63,7 +63,7 @@ The web application tracks real-time cryptocurrency data, fetching price, market
 
 3. Install Dependencies
 ```bash
-  npm i
+  npm install
 ```
 4. Create a .env file.
 
