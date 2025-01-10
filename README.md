@@ -2,7 +2,7 @@
 
 The web application tracks real-time cryptocurrency data, fetching price, market cap, and 24-hour change every 2 hours. It provides APIs to retrieve the latest data and calculate price volatility (standard deviation) based on the last 100 records stored in a database for analysis and insights.
 
-
+Deployed on: https://coinvault-deployment.onrender.com (May take sometime to start the server)
 
 
 
